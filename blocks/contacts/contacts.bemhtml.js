@@ -1,5 +1,3 @@
-block('contacts')(
-  {
-    tag: 'table'
-  }
-);
+block('contacts')({
+  tag: 'table'
+});

@@ -8,7 +8,9 @@ block('wrapper')({
         html: '<tr><td>'
       },
       {
-        elem: 'preface'
+        block: 'preface',
+        mix: { block: node.block, elem: 'preface' },
+        depart: ctx.data.preface
       },
       {
         html: '</td></tr><tr><td>'
@@ -23,4 +25,3 @@ block('wrapper')({
     ])
   }
 });
-
