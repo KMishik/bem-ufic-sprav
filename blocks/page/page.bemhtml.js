@@ -18,6 +18,7 @@ block('page')(
                         content : [
                             { tag : 'meta', attrs : { charset : 'utf-8' } },
                             { tag : 'title', content : 'Справочник УФИЦ' },
+                            { tag : 'link', attrs: { rel : 'stylesheet', href: 'uficcontactmodal.css' } },
                         ]
                     },
                     ctx

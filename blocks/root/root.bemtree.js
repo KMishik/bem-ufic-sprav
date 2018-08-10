@@ -6,7 +6,7 @@ block('root')({
       content: [
         {
           block: 'wrapper',
-          data: ctx.s_data
+          data: ctx.s_data,
         }
       ]
     };
