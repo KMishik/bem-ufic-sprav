@@ -58,6 +58,44 @@
         "phones": [
           "111-55-00"
         ]
+      },
+      {
+        "div":false,
+        "subdiv":true,
+        "name":"Отдел второй",
+        "position":"",
+        "phones": []
+      },
+      {
+        "div":false,
+        "subdiv":false,
+        "name":"Семёнов Семён Семёнович",
+        "position":"Начальник",
+        "phones": [
+          "345-63-55",
+          "678-65-11"
+        ]
+      },
+      {
+        "div":false,
+        "subdiv":true,
+        "name":"Управление супер-пупер разработок",
+        "position":"",
+        "phones": []
+      },
+      {
+        "div":false,
+        "subdiv":true,
+        "name":"Отдел пупер разработок",
+        "position":"",
+        "phones": []
+      },
+      {
+        "div":false,
+        "subdiv":false,
+        "name":"Трудов Труд Вкалович",
+        "position":"Работник",
+        "phones": []
       }
     ]
   }
